@@ -16,17 +16,23 @@
     0%{
         background-color: red;
     }
-    25%{
+    10%{
         background-color: blue;
     }
-    50%{
+    30%{
         background-color: yellow;
     }
-    75%{
+    50%{
         background-color: purple;
     }
+    70%{
+        background-color: fuchsia;
+    }
+    90%{
+        background-color: chartreuse;
+    }
     100%{
-        background-color: white;
+        background-color: red;
     }
 }
 
@@ -39,13 +45,13 @@
     color: red;
     flex-direction: column;
     animation-name: disco;
-    animation-duration: 1s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
 
     img{
         width: 100%;
         animation-name: stretch;
-        animation-duration: 1s;
+        animation-duration: 2s;
         animation-iteration-count: infinite;
     }
 }
