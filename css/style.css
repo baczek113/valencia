@@ -19,11 +19,17 @@
     10%{
         background-color: blue;
     }
+    10%{
+        background-color: pink;
+    }
     30%{
         background-color: yellow;
     }
     50%{
         background-color: purple;
+    }
+    60%{
+        background-color: darkgreen;
     }
     70%{
         background-color: fuchsia;
