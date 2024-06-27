@@ -51,3 +51,6 @@ Enjoy!
 ## Getting Started
 
 To start - pull the project and run the main.html file in Your browser.
+
+To change the pace of the dancing hamster You should change the values marked on the image below - they are found in css/style.css .
+![img.png](img/img.png)
