@@ -51,13 +51,13 @@
     color: red;
     flex-direction: column;
     animation-name: disco;
-    animation-duration: .5s;
+    animation-duration: 5s;
     animation-iteration-count: infinite;
 
     img{
         width: 100%;
         animation-name: stretch;
-        animation-duration: .4s;
+        animation-duration: 5s;
         animation-iteration-count: infinite;
     }
 }
