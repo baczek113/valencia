@@ -23,9 +23,6 @@
 
 <h3 align="center">Valencia ERASMUS</h3>
 
-  <p align="center">
-    THIS PROJECT IS FOR LEARNING PURPOSES ONLY
-  </p>
 </div>
 
 
