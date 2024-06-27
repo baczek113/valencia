@@ -4,7 +4,7 @@
     }
 
     50%{
-        aspect-ratio: 6/1;
+        aspect-ratio: 20/1;
     }
 
     100%{
@@ -12,15 +12,35 @@
     }
 }
 
+@keyframes disco{
+    0%{
+        background-color: red;
+    }
+    25%{
+        background-color: blue;
+    }
+    50%{
+        background-color: yellow;
+    }
+    75%{
+        background-color: purple;
+    }
+    100%{
+        background-color: white;
+    }
+}
+
 .main{
     display: flex;
     width: 100%;
-    height: 100%;
+    height: 950px;
     align-items:center;
     justify-content: space-between;
     color: red;
-    background-color: yellow;
     flex-direction: column;
+    animation-name: disco;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
 
     img{
         width: 100%;
